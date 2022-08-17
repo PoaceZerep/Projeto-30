@@ -1,0 +1,3 @@
+console.log("hello world") // escreve na tela hello world
+
+Escolhi o VScode, a principio, por poder programar em várias linguagens.
